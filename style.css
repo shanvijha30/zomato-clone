@@ -155,3 +155,36 @@ header{
     margin-bottom:5px; 
     text-align:justify;
 }
+/* SECTION 3 */
+.section-3{
+    height:620px;
+    background-color:rgb(255,251,247);
+}
+.section-3-container{
+    width:1080px;
+    height:100%;
+    margin:0 auto;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+.section-3-img{
+    width:40%;
+}
+.section-3-img img{
+    width:400px;
+}
+.section-3-content h1{
+    font-size:2.5rem;
+    font-weight:lighter;
+    margin:0;
+    margin-bottom:15px;
+}
+.section-3-content p{
+    font-size:1.2rem;
+    font-weight:lighter;
+    margin-bottom:15px;
+}
+.section-3-download img{
+    width:40%;
+}
